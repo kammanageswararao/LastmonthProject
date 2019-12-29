@@ -14,7 +14,7 @@ public class FirstJavaProgramm {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hello wolrd sample progr");
-		System.out.println("second line commenting");
+		System.out.println("second line conting");
 		System.out.println("Third line comenting");
 		
 
